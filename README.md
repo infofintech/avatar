@@ -1,4 +1,4 @@
-# Project Digital Avatar
+# Unified Digital Pictograms
 
 A basic free web collection of user and project avatars.
 
